@@ -1,0 +1,34 @@
+	Welcome to the oeken retailer
+
+Bill Number :66616
+Customer Name :riyan
+Phone Number : 9876547574
+===========================================
+ Product		QTY		Price
+===========================================
+Bath Soap		23		920
+Face Cream		23		2760
+Face Wash		2		120
+Hair Spray		23		4140
+Hair Gell		23		3220
+Body Loshen		23		4140
+Rice 		23		1840
+Food Oil		32		3840
+Face Wash		32		2560
+Hair Spray		3		600
+Hair Gell		3		540
+Body Loshen		3		300
+Maze 		3		180
+Coke		4		240
+Frooti		4		320
+Thumbs upt	34		2380
+Limca		4		160
+Sprite		23		1840
+------------------------------------------
+Cosmetic Tax				Rs. 765
+------------------------------------------
+Grocery Tax				Rs. 678
+------------------------------------------
+Cold Drink Tax				Rs. 205
+------------------------------------------
+Total Bill 				Rs. 31748.0

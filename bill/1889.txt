@@ -1,0 +1,24 @@
+	Welcome to the oeken retailer
+
+Bill Number :1889
+Customer Name :
+Phone Number : 
+===========================================
+ Product		QTY		Price
+===========================================
+Bath Soap		10		400
+Face Cream		5		600
+Face Wash		12		720
+Hair Spray		7		1260
+Rice 		70		5600
+Hair Spray		12		2400
+Maze 		2		120
+Sprite		4		320
+------------------------------------------
+Cosmetic Tax				Rs. 149
+------------------------------------------
+Grocery Tax				Rs. 560
+------------------------------------------
+Cold Drink Tax				Rs. 18
+------------------------------------------
+Total Bill 				Rs. 12147.0

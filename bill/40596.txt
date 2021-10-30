@@ -1,0 +1,8 @@
+	Welcome to the oeken retailer
+
+Bill Number :40596
+Customer Name :
+Phone Number : 
+===========================================
+ Product		QTY		Price
+===========================================

@@ -1,0 +1,15 @@
+	Welcome to the oeken retailer
+
+Bill Number :62037
+Customer Name :
+Phone Number : 
+===========================================
+ Product		QTY		Price
+===========================================
+Bath Soap		1		40
+------------------------------------------
+Cosmetic Tax				Rs. 2
+------------------------------------------
+Cold Drink Tax				Rs. 0
+------------------------------------------
+Total Bill 				Rs. 42.0
